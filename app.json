@@ -1,0 +1,25 @@
+{
+  "name": "BigHitTemplate",
+  "displayName": "Template",
+  "expo": {
+    "name": "BigHitTemplate",
+    "icon": "./android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "slug": "expo-template-bare",
+    "privacy": "unlisted",
+    "orientation": "portrait",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "android": {
+      "package": "com.yourcompany.bighit",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname",
+      "buildNumber": "1.0.0"
+    },
+    "platforms": [
+      "android"
+    ]
+  }
+}
